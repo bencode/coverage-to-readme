@@ -1,6 +1,6 @@
 {
   "name": "coverage-to-readme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "write istanbul coverage report to readme",
   "repository": {
     "type": "git",
