@@ -5,23 +5,23 @@ coverage-to-readme
 
 ## 使用方法
 
-1. 安装
+1\. 安装
 
 ```
 npm install --save-dev coverage-to-readme
 ```
 
-2. 在README.md需要添加单元测试覆盖率的地方打个标
+2\. 在README.md需要添加单元测试覆盖率的地方打个标
 
 ```
 ```coverage
 ```
 ```
 
-3. 运行`istanbul cover`生成信息文件
+3\. 运行`istanbul cover`生成信息文件
 
 
-4. 运行命令
+4\. 运行命令
 
 ```
 node node_modules/coverage-to-readme
