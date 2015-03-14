@@ -1,6 +1,6 @@
 {
   "name": "coverage-to-readme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "write istanbul coverage report to readme",
   "repository": {
     "type": "git",
@@ -8,7 +8,7 @@
   },
   "main": "lib/cli.js",
   "bin": {
-      "coverage-to-readme": "lib/cli.js"
+    "coverage-to-readme": "lib/cli.js"
   },
   "dependencies": {
     "istanbul": "^0.3.7",
