@@ -14,8 +14,8 @@ npm install --save-dev coverage-to-readme
 2\. 在README.md需要添加单元测试覆盖率的地方打个标
 
 ```
-  ```coverage
-  ```
+\```coverage
+\```
 ```
 
 3\. 运行`istanbul cover`生成信息文件
