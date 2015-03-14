@@ -1,0 +1,23 @@
+{
+  "name": "coverage-to-readme",
+  "version": "1.0.0",
+  "description": "write istanbul coverage report to readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bencode/coverage-to-readme.git"
+  },
+  "main": "lib/cli.js",
+  "bin": {
+      "coverage-to-readme": "lib/cli.js"
+  },
+  "dependencies": {
+    "istanbul": "^0.3.7",
+    "nopt": "^3.0.1"
+  },
+  "author": "bencode@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencode/coverage-to-readme/issues"
+  },
+  "homepage": "https://github.com/bencode/coverage-to-readme"
+}
